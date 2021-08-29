@@ -1,0 +1,67 @@
+
+body{
+    background: url(food-table.jpg)  ;
+    /* background-repeat: no-repeat;
+    background-position: center; */
+    background-size: cover;
+    
+}
+
+
+.bor{
+    border: 2px solid red;
+  
+}
+.calculator{
+    margin-top: 50px;
+    background: pink;
+    width: 400px;
+    border-radius: 1rem;
+    text-align: center;
+     
+}
+.btn
+{
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* -------------------- */
+
+.calories-cal .container{
+    background-color: white;
+	border-radius: 40px;
+	padding: 0px;
+    margin-top: 30px;
+}
+.calories-cal input{
+    background-color: #dd3b79;
+	border: none;
+	color: white;
+}
+
+#resultcal{
+    color: red;
+    padding-top: 0.5rem;
+}
+.left-data{
+   
+    background-color: pink;
+    text-align: center;
+  
+	border-top-left-radius: 30px;
+    height: 100%;
+	
+	/* padding: 100px; */
+}
+
+.pie-chat{
+    background-color: white;
+	height: 100%;
+	border-bottom-right-radius: 30px;
+    text-align: center;
+	
+}
+
+
+
